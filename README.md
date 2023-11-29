@@ -42,4 +42,3 @@ This project focuses on the analysis of weather conditions and their potential i
 
 ## Conclusion
 * Evaluated the impact of weather on BTS anomalies.
-
